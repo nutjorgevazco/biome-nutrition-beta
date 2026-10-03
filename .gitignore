@@ -1,0 +1,15 @@
+node_modules/
+dist/
+dist_electron/
+asar_contents/
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+Thumbs.db
+error_log.txt
+extract.mjs
+index-*.js
+labels.txt
+scratch*.cjs
